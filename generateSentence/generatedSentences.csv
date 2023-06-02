@@ -1,0 +1,11 @@
+TEXT,DEPART,DESTINATION,ERROR
+C'est une catastrophe mon train est annulé. Je devais faire Gare de Clelles-Mens à Fénétrange (Gendarm.) demain soir mais je ne sais pas comment faire.,Gare de Clelles-Mens,Fénétrange (Gendarm.),false
+Je veux partir de Gare de Breil-sur-Roya à Gare de Château-Gaillard,Gare de Breil-sur-Roya,Gare de Château-Gaillard,false
+Je dois aller à St-Louis-57-Incliné depuis Gare de Boën. Quel est le meilleur moyen de transport?,Gare de Boën,St-Louis-57-Incliné,false
+Trajet St-Aignan-Lep Gare de La Tour-du-Pin,St-Aignan-Lep,Gare de La Tour-du-Pin,false
+Je dois aller à Gare de Prissé-la-Charrière depuis Gare de Versailles-Chantiers. Quel est le meilleur moyen de transport?,Gare de Versailles-Chantiers,Gare de Prissé-la-Charrière,false
+Quel est le meilleur itinéraire pour aller de Perl Gare DB à Gare de L'Aigle en passant par Nantes?,Perl Gare DB,Gare de L'Aigle,false
+Y'a t-il un train qui va de Mutzig-Passage-A-Niveau à Gare de Macau?,Mutzig-Passage-A-Niveau,Gare de Macau,false
+Gare de Villefranche-sur-Saône à Lichtenberg-(Eglise).,Gare de Villefranche-sur-Saône,Lichtenberg-(Eglise).,false
+Je pars en voyage à Gare de Tessonnières depuis Gare de Besançon-Mouillère. Quel est le meilleur moyen de transport?,Gare de Besançon-Mouillère,Gare de Tessonnières,false
+Trajet Creutzwald G.R. Gare de Thann-Saint-Jacques,Creutzwald G.R.,Gare de Thann-Saint-Jacques,false

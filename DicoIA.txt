@@ -1,0 +1,58 @@
+tokenization : La segmentation des jetons est une étape dans le traitement du langage naturel qui consiste à diviser un texte en jetons individuels, 
+généralement des mots ou des groupes de mots qui ont un sens. Cela permet de faciliter le traitement ultérieur du texte en le divisant en unités plus 
+petites et plus faciles à manipuler. La segmentation des jetons peut être effectuée en utilisant des algorithmes de traitement du langage naturel ou 
+simplement en séparant les mots d'une phrase en utilisant des espaces ou des ponctuations.
+
+
+Chunk : En traitement du langage naturel, le chunking consiste à regrouper des mots en "chunks" ou "morceaux" qui ont un sens commun. Par exemple, 
+dans la phrase "le chat noir mange du poisson", les chunks pourraient être "le chat noir", "mange" et "du poisson". Le chunking peut être utilisé pour 
+extraire des informations d'un texte en identifiant les groupes de mots qui ont un sens commun et en les regroupant en unités plus significatives. Cela 
+peut être utile pour des tâches telles que l'analyse de sentiments ou l'extraction d'informations.
+
+
+L'étiquetage de la partie du discours (POS-tagging) est une technique utilisée en traitement du langage naturel pour attribuer une étiquette de partie 
+du discours à chaque mot d'une phrase. Les étiquetages de la partie du discours peuvent inclure des verbes, des noms, des adjectifs, etc. Cela aide à 
+comprendre la structure et le sens d'une phrase en identifiant les différentes parties du discours et leur rôle dans la phrase.
+
+
+Le named entity recognition (NER), ou reconnaissance des entités nommées, est une tâche en traitement du langage naturel qui consiste à détecter et à 
+classifier les noms propres dans un texte. Cela peut inclure des personnes, des lieux, des organisations, etc. Le NER peut être utilisé pour extraire 
+des informations d'un texte en identifiant les noms propres et en les organisant en catégories significatives. Cela peut être utile pour des tâches telles 
+que l'extraction d'informations ou l'analyse de sentiments.
+
+
+Le rappel (recall) est une mesure de performance utilisée en apprentissage automatique pour évaluer la qualité d'un modèle de classification. Il mesure 
+la proportion de valeurs réelles positives que le modèle a correctement identifiées parmi l'ensemble des valeurs réelles positives. Plus le rappel est 
+élevé, plus le modèle est performant dans l'identification des valeurs réelles positives.
+
+La précision mesure la capacité du modèle à ne pas identifier un élément négatif comme étant positif. Elle est calculée en divisant le nombre de vrais 
+positifs par le nombre total de positifs identifiés.
+Le rappel (ou "sensibilité") mesure la capacité du modèle à détecter tous les éléments positifs. Il est calculé en divisant le nombre de vrais positifs 
+par le nombre total d'éléments réellement positifs.
+En résumé, la précision s'intéresse à la justesse de la réponse positive et le rappel s'intéresse à la capacité de trouver tous les cas positifs.
+
+Le F-score, également appelé F-mesure ou coefficient de F, est une autre mesure de performance utilisée en apprentissage automatique pour évaluer la 
+qualité d'un modèle de classification. Il combine le rappel et la précision en utilisant une moyenne harmonique pour donner une valeur unique qui reflète 
+la performance globale du modèle. Plus le F-score est élevé, meilleure est la performance du modèle.
+
+
+En traitement du langage naturel, les entités désignent généralement des noms propres dans un texte, tels que des personnes, des lieux, des organisations, 
+etc. Les entités peuvent être détectées et classées en utilisant une technique appelée reconnaissance des entités nommées (NER). Le NER peut être utilisé 
+pour extraire des informations d'un texte en identifiant les noms propres et en les organisant en catégories significatives. Cela peut être utile pour des 
+tâches telles que l'extraction d'informations ou l'analyse de sentiments.
+
+
+En traitement du langage naturel, un pipe (tuyau) est une chaîne de traitements ou de transformations appliquées à un texte pour en extraire des informations 
+ou pour le préparer à un traitement ultérieur. Par exemple, un pipe peut inclure des étapes de tokenization, de lemmatization, d'étiquetage de la partie du 
+discours, de reconnaissance des entités nommées, etc. Un pipe est généralement utilisé pour automatiser un processus de traitement du texte en enchaînant les 
+différentes étapes en une seule opération. Cela peut être utile pour des tâches telles que l'analyse de sentiments ou l'extraction d'informations.
+
+
+La lemmatization est une étape dans le traitement du langage naturel qui consiste à regrouper les différentes formes d'un mot (par exemple, "manger" et "mangé") 
+en un seul mot "lemme" ou forme canonique. Cela permet de simplifier le traitement ultérieur du texte en réduisant le nombre de formes différentes d'un mot à 
+gérer. La lemmatization peut être effectuée en utilisant des dictionnaires de lemmes ou des algorithmes de traitement du langage naturel pour identifier la forme 
+canonique d'un mot. Cela peut être utile pour des tâches telles que l'analyse de sentiments ou l'extraction d'informations.
+
+Une couche d'embedding est une couche de réseau de neurones utilisée pour représenter les données d'entrée dans un espace vectoriel dense à haute dimension. 
+La couche prend en entrée des données à un état discret (comme des mots ou des caractères) et les encode en un vecteur continu, permettant ainsi une utilisation 
+efficace pour les tâches de traitement du langage naturel.
